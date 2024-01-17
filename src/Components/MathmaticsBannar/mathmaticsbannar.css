@@ -1,0 +1,14 @@
+.bannar-header{
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 32px;
+    background-clip: text;
+    -webkit-background-clip: text; 
+    color: transparent;
+    background-image: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+   
+}

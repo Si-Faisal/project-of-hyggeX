@@ -1,0 +1,19 @@
+.tab {
+    color: #696671 !important;
+    font-family: Inter !important;
+    font-size: 20px !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    line-height: normal;
+    border-bottom: 0 !important;
+    padding: 0px 12px !important;
+    /* align-items: flex-start; */
+    gap: 10px !important;
+   
+   
+}
+.tab-active{
+    color: #06286E !important;
+    font-weight: 700 !important;
+    border-bottom: 2px solid #06286E !important;
+}

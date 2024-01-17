@@ -1,0 +1,37 @@
+.navbar {
+    
+    padding: 0 !important;
+   
+}
+
+.logo{
+    width: 191px;
+    height: 39px;
+}
+
+.btn-list{
+    display: inline-flex;
+    align-items: center;
+    gap: 40px;
+}
+.btn-list button{
+    color: #3A3740;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.login-btn{
+    color: #FFF !important;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    padding: 13px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 32px;
+    background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+}
